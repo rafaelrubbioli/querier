@@ -1,2 +1,3 @@
-# querier
-A SQL querybuilder in go
+# SQL Querier
+
+A SQL query builder in Go.
